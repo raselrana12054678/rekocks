@@ -1,0 +1,85 @@
+.service-area {
+    .title {
+        padding-bottom: 50px;
+        h6 {
+
+        }
+        h2 {
+
+        }
+    }
+    .service-left-content {
+        position: relative;
+        .service-bg {
+            img {
+    
+            }
+        }
+        .service-details-wrap {
+            width: 450px;
+            height: 425px;
+            padding: 50px 35px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            position: absolute;
+            right: -175px;
+            bottom: -169px;
+            margin: 0;
+            .number {
+                h3 {
+                    font-family: "Kumbh Sans", sans-serif;
+                    line-height: 28px;
+                    font-size: 60px;
+                    font-weight: 600;
+                    color: #fff;
+                    margin-bottom: 50px;
+                }
+                p {
+                    font-family: "Kumbh Sans", sans-serif;
+                    font-size: 18px;
+                    font-weight: 400;
+                    line-height: 28px;
+                    position: relative;
+                    color: #fff;
+                    margin-bottom: 40px;
+                }
+                a {
+                    text-decoration: none;
+                    cursor: pointer;
+                    font-family: "Space Grotesk", sans-serif;
+                    color: #fff;
+                    font-size: 18px;
+                    font-weight: 500;
+                    -webkit-transition: 0.5s;
+                    transition: 0.5s;
+                }
+            }
+        }
+    }
+    .single-service-items {
+        border-top: 1px solid #141417;
+        padding: 25px 0;
+        p {
+            font-family: "Kumbh Sans", sans-serif;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 28px;
+            position: relative;
+            color: #515151;
+            margin: 0;
+        }
+        h3 {
+            margin: 0;
+            a {
+                font-size: 36px;
+                font-weight: 700;
+                margin-top: 15px;
+                cursor: pointer;
+                font-family: "Space Grotesk", sans-serif;
+                color: #141417;
+                text-decoration: none;
+            }
+        }
+    }
+}

@@ -1,0 +1,131 @@
+.pricing-wrapper {
+    background-color: #f6f6f6;
+    .price-title-items {
+        h6 {
+
+        }
+        h2 {
+
+        }
+    }
+    .single-price {
+        background: #fff;
+        box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.07);
+        padding: 45px;
+        border-radius: 12px;
+        margin-top: 40px;
+        position: relative;
+        transition: .6s ease-in-out;
+        &:hover {
+            background: #000;
+            overflow: hidden;
+            span {
+                visibility: visible;
+            }
+            .price-title {
+                h5 {
+                    color: #fff;
+                } 
+            }
+            .price-amount {
+                h2 {
+                    color: #fff;
+                }
+            }
+            p {
+                color: #fff;
+            }
+            .feature-list {
+                li {
+                    color: #fff;
+                    i {
+                        color: #fff;
+                    }
+                }
+            }
+        }
+        .price-title {
+            h5 {
+                font-size: 24px;
+                font-weight: 600;
+                font-family: "Space Grotesk", sans-serif;
+                margin: 0;
+                color: #141417; 
+            }
+        }
+        .price-amount {
+            margin: 16px 0;
+            h2 {
+                font-size: 60px;
+                font-weight: 600;
+                font-family: "Space Grotesk", sans-serif;
+                margin: 0;
+                color: #141417;
+            }
+        }
+        p {
+            font-family: "Kumbh Sans", sans-serif;
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 28px;
+            position: relative;
+            color: #515151;
+            margin-bottom: 30px;
+        }
+        ul {
+            padding-left: 0;
+            list-style: none;
+            .feature-list {
+                border-top: 1px solid #ddd;
+                padding: 23px 0;
+                li {
+                    i {
+
+                    }
+                }
+            }
+        }
+        .price-btn {
+            a {
+                background: #8670EF;
+                color: #fff;
+                font-family: "Space Grotesk", sans-serif;
+                font-size: 16px;
+                font-weight: 600;
+                line-height: 1;
+                padding: 20px 35px;
+                border-radius: 12px;
+                text-align: center;
+                display: inline-flex;
+                align-items: center;
+                justify-content: center;
+                cursor: pointer;
+                -webkit-transition: 0.3s;
+                transition: .6s;
+                text-decoration: none;
+                &:hover {
+                    background-color: #FAD664;
+                    color: #141717;
+                }
+            }
+        }
+        span {
+            background: #FAD764;
+            position: absolute;
+            top: 0;
+            right: 0;
+            border-radius: 0 10px 0 12px;
+            transform: translate(0, 0);
+            padding: 5px 15px;
+            font-weight: 600;
+            color: #333;
+            visibility: hidden;
+        }
+    }
+
+
+    i.fa.fa-circle-arrow-right.fa-beat-fade {
+        margin-right: 13px;
+        line-height: 35px;
+}
+}

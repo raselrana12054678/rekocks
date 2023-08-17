@@ -1,0 +1,35 @@
+.Faq-wrapper {
+    .faq-title {
+        h2 {
+
+        }
+        p {
+
+        }
+        .faq-shape {
+            img {
+                width: 100%;
+            }
+        }
+    }
+
+
+    .updown-animaiton {
+        animation-name: infiniteupdown;
+        animation-duration: 5s;
+        animation-iteration-count: infinite;
+        animation-timing-function: ease;
+        transition: all .6s;
+    }
+    @keyframes infiniteupdown{
+        0% {
+            transform: translateY(0px);
+        }
+        50% {
+            transform: translateY(-44px);
+        } 
+        100% {
+            transform: translateY(0px);
+        }
+    }
+}

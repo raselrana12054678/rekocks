@@ -1,0 +1,525 @@
+
+/* extra large start  */
+@media (min-width: 1200px) and (max-width: 1400px) {
+
+}
+/* large device start  */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .Qualification-wrapper .experience-wrapper .single-qualification-item .qualification-title {
+        padding-left: 33%;
+    }
+    /* service-area start */
+    img, svg {
+        width: 100%;
+    }
+    /* service-bg start  */
+    .service-area .service-left-content .service-details-wrap {
+        width: 314px;
+        right: -115px;
+        margin: 0;
+    }
+    /* single-service-items start  */
+    .service-area .single-service-items {
+        padding: 19px 0;
+    }
+    /* service-title start  */
+    .service-area .single-service-items h3 a {
+        font-size: 25px;
+    }
+    /* my-skill start  */
+    .my-skills .title h2 {
+        font-size: 40px;
+    }
+    /* my-skill bg start  */
+    .my-skills {
+        height: 303vh;
+    }
+    /* my-skill-title start  */
+    .Qualification-wrapper .experience-wrapper h3 {
+        font-size: 30px;
+    }
+    /* portfolio start  */
+    .portfolio-area .portfolio-title h2 {
+        font-size: 43px;
+    }
+    /* portflo-menu start  */
+    .portfolio-area .portfolio-menu {
+        width: 74%;
+    }
+    /* portfolio-details start  */
+    .portfolio-area .single-portfolio-items .portfolio-details a {
+        font-size: 27px;
+    }
+    /* testimonial-start  */
+    .testimonials-area .title h2 {
+        font-size: 50px;
+    }
+    /* testimonial-image start  */
+    .testimonials-area .testimonial-active .testimonial-item .testimonial-author .testimonial-img img {
+        border: 2px solid rgb(50, 253, 14);
+        padding: 0px 15px;
+        border-radius: 86px;
+        width: 100%;
+    }
+    /* testimonial-details start  */
+    .testimonials-area .testimonial-active .testimonial-item .testimonial-author .quote-sign {
+        margin-left: 24%;
+    }
+    /* .testimonial-image start  */
+    img {
+        margin-right: 63px;
+    }
+    /* price btn start  */
+    .pricing-wrapper .single-price .price-btn a {
+        font-size: 13px;
+    }
+    /* price amount start  */
+    .pricing-wrapper .single-price .price-amount h2 {
+        font-size: 40px;
+    }
+    /* blog-title start  */
+    .blog-area .blog-title h2 {
+        font-size: 46px;
+    }
+    /* blog-meta start */
+    .blog-area .single-blog-items h5 {
+        font-size: 20px;
+    }
+    .contact-area .contact-title h2 {
+        font-size: 50px;
+    }
+    /* info-content start  */
+    .cta-area .contact-info-wrap .contact-info .info-content h5 {
+        font-size: 14px;
+    }
+    /* contact-info start  */
+    .cta-area .contact-info-wrap .contact-info .info-icon img {
+        width: 61%;
+        margin-left: 63px;
+    }
+    /* footer-image start  */
+}
+/* medium device start  */
+@media(min-width: 768px) and (max-width: 992px) {
+    /* hero-are btn start  */
+    .hero-area .hero-area-content .hero-area-btn .icon-left a {
+        margin-right: 18px;
+    }
+    /* slider start p  */
+    .service-line .slick-slider marquee p {
+        font-size: 21px;
+    }
+    /* title start  */
+    .about-area .about-me-wrap h2 {
+        font-size: 31px;
+        line-height: 46px;
+        margin: 10px 0;
+    }
+    .about-area .about-me-wrap {
+        padding: 29px 34px;
+    }
+    .about-area .about-me-wrap .about-info-wrap .about-info p span {
+        font-size: 16px;
+    }
+    .about-area .about-me-wrap .about-info-wrap .about-info p {
+        font-size: 14px;
+    }
+    .about-area .about-me-wrap p {
+        font-family: "Kumbh Sans", sans-serif;
+        font-size: 14px;
+    }
+    /* service-bg  */
+    img, svg {
+        vertical-align: middle;
+        width: 100%;
+    }
+    .service-area .service-left-content .service-details-wrap {
+        width: 283px;
+        right: -119px;
+        height: 363px;
+        padding: 6px 20px;
+    }
+    /* number p start  */
+    .service-area .service-left-content .service-details-wrap .number p {
+        font-size: 14px;
+        line-height: 25px;
+        margin-bottom: 23px;
+    }
+    .service-area .single-service-items h3 a {
+        font-size: 20px;
+    }
+    .service-area .single-service-items {
+        padding: 10px 0;
+    }
+    /* skill title start  */
+    .my-skills .title h2 {
+        font-size: 28px;
+        line-height: 50px;
+    }
+    .my-skills {
+        height: 248vh;
+    }
+    .my-skills .skill-item-wrap .single-skill-item .skill-item-inner .skill-counter h3 {
+        font-size: 20px;
+    }
+    .skill-item-inner {
+        margin-right: 20px;
+    }
+    .Qualification-wrapper .experience-wrapper h3 {
+        font-size: 25px;
+    }
+    .Qualification-wrapper .experience-wrapper .single-qualification-item .qualification-title {
+        padding-left: 15%;
+    }
+
+    .Qualification-wrapper .experience-wrapper .single-qualification-item {
+        padding: 30px 15px;
+    }
+
+    /* portfolio-title start  */
+    .portfolio-area .portfolio-title h2 {
+        font-size: 36px;
+        line-height: 52px;
+    }
+    /* portfolio-menu start  */
+    .portfolio-area .portfolio-menu {
+        width: 98%;
+    }
+    .portfolio-area .portfolio-menu ul li {
+        padding: 20px 23px;
+    }
+    /* portfolio-details start  */
+    .portfolio-area .single-portfolio-items .portfolio-details a {
+        font-size: 20px;
+    }
+    /* details -img start  */
+    img {
+        width: 100%;
+    }
+    /* testimonial-area start  */
+    .testimonials-area .rating-review {
+        padding: 28px 65px;
+    }
+    /* testimonial-title start  */
+    .testimonials-area .title h2 {
+        font-size: 40px;
+    }
+    /* rating start  */
+    .testimonials-area .review-wrap {
+        width: 19%;
+    }
+    /* price-area start  */
+    .pricing-wrapper .single-price .price-amount h2 {
+        font-size: 34px;
+    }
+    /* small-tag start  */
+    .pricing-wrapper .single-price .price-title h5 {
+        font-size: 15px;
+    }
+    .pricing-wrapper .single-price {
+
+        padding: 30px 15px;
+    }
+    .pricing-wrapper .single-price .price-btn a {
+        font-size: 11px;
+    }
+    .pricing-wrapper .single-price p {
+        font-size: 13px;
+    }
+    .pricing-wrapper .single-price ul .feature-list {
+        padding: 14px 0;
+    }
+    .blog-area .blog-title h2 {
+        font-size: 34px;
+        line-height: 52px;
+    }
+    /* blog start  */
+    .blog-area .single-blog-items {
+        padding: 25px 15px;
+    }
+    .blog-area .single-blog-items .blog-meta a {
+        font-size: 15px;
+    }
+    .blog-area .single-blog-items h5 {
+        font-size: 15px;
+        margin-bottom: 15px;
+    }
+    .blog-area .single-blog-items p {
+        font-family: "Kumbh Sans", sans-serif;
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .pb-70 {
+        padding-bottom: 70px;
+    }
+    .pt-70 {
+        padding-top: 70px;
+    }
+    /* contact area start  */
+    .contact-area .contact-title h2 {
+        font-size: 33px;
+        line-height: 50px;
+    }
+    .contact-area .contact-form form input {
+        width: 100%;
+    }
+    .contact-area .contact-form form input:nth-child(2) {
+        margin-left: 0px;
+    }
+    .cta-area .contact-info-wrap .contact-info .info-content h5 {
+        font-size: 11px;
+    }
+    /* contact-trams start  */
+    .cta-area .contact-info-wrap .contact-info .info-icon img {
+        width: 55%;
+        height: 30px;
+    }
+    .cta-area .contact-info-wrap {
+        height: 157px;
+        margin-top: -66px;
+    }
+}
+/* small device start  */
+@media(min-width: 576px) and (max-width: 768px) {
+
+}
+@media(min-width: 375px) {
+    .hero-area .hero-area-content h1 {
+        font-size: 33px;
+        line-height: 50px;
+    }
+    .hero-area .hero-area-content p {
+        margin-bottom: 27px;
+    }
+    .hero-area .info-btn-wrap .info-btn:first-child {
+        margin-top: 55px;
+    }
+    .hero-area .hero-area-content p {
+        font-size: 14px;
+    }
+    .hero-area .hero-area-content .hero-area-btn .icon-left a {
+        font-size: 16px;
+    }
+    .hero-area .hero-area-content .hero-area-btn .btn a {
+        font-size: 14px;
+    }
+    .hero-area .info-btn-wrap .info-btn:first-child {
+        margin-bottom: 53px;
+    }
+    .hero-area .info-btn-wrap .info-btn:last-child {
+        margin-top: 60px;
+    }
+    .service-line .slick-slider marquee p {
+        font-size: 20px;
+        letter-spacing: 2px;
+    }
+    .about-area .about-me-wrap h2 {
+        font-size: 36px;
+        line-height: 56px;
+    }
+    .about-area .about-me-wrap {
+        padding: 40px 10px;
+    }
+    .about-area .about-me-wrap p {
+        font-size: 15px;
+        letter-spacing: 1px;
+    }
+    .about-area .about-me-wrap .about-wrap .about-btnn a {
+        font-size: 16px;
+    }
+    .about-area .about-me-wrap .about-wrap .about-btn a {
+        font-size: 14px;
+    }
+    .about-area .about-me-wrap .about-info-wrap .about-info p span {
+        font-size: 14px;
+    }
+    .about-area .about-me-wrap .about-info-wrap .about-info p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    .pt-100 {
+        padding-top: 68px;
+    }
+    img, svg {
+        width: 100%;
+    }
+    .service-area .service-left-content {
+        margin-bottom: 70%;
+    }
+    .service-area .service-left-content .service-details-wrap {
+        width: 276px;
+        height: 350px;
+        padding: 45px 18px;
+        right: 1px;
+    }
+    .service-area .service-left-content .service-details-wrap .number h3 {
+        line-height: 52px;
+        margin-top: 11px;
+        margin-bottom: 25px;
+    }
+    .service-area .service-left-content .service-details-wrap .number p {
+        font-size: 14px;
+        letter-spacing: 1px;
+    }
+    .service-area .single-service-items h3 a {
+        font-size: 20px;
+    }
+    .pb-100 {
+        padding-bottom: 30px;
+    }
+    .my-skills .title h2 {
+        font-size: 21px;
+        line-height: 42px;
+        width: 80%;
+    }
+    .my-skills {
+        width: 100%;
+        height: 576vh;
+    }
+    .my-skills .skill-item-wrap {
+        display:grid;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    .my-skills .skill-item-wrap .single-skill-item p {
+        margin-bottom: 70px;
+    }
+    .Qualification-wrapper .experience-wrapper h3 {
+        font-size: 27px;
+    }
+    .Qualification-wrapper .experience-wrapper .single-qualification-item .qualification-title h5 {
+        font-size: 13px;
+    }
+    .Qualification-wrapper .experience-wrapper .single-qualification-item .qualification-title {
+        padding-left: 30%;
+    }
+    .Qualification-wrapper .experience-wrapper .single-qualification-item .qualification-title h5 span {
+        font-size: 16px;
+    }
+    .single-qualification-item:last-child {
+        margin-bottom: 60px;
+    }
+    .pb-140 {
+        padding-bottom: 60px;
+    }
+    .portfolio-area .portfolio-title h2 {
+        font-size: 21px;
+        line-height: 37px;
+        width: 75%;
+    }
+    .portfolio-area .portfolio-menu {
+        width: 100%;
+    }
+    ul {
+        padding-left: 0;
+    }
+    .portfolio-area .portfolio-menu ul li {
+        padding: 3px 9px;
+    }
+    .portfolio-area .portfolio-menu {
+        padding: 11px 0;
+    }
+    .portfolio-area .portfolio-menu ul li {
+        padding: 3px 15px;
+        border: 1px solid red;
+    }
+    .portfolio-area .portfolio-menu ul li:last-child {
+        margin-top: 10px;
+        margin-bottom: 0;
+    }
+    .portfolio-area .single-portfolio-items .portfolio-details a {
+        font-size: 20px;
+    }
+    .testimonials-area .rating-review {
+        padding: 21px 55px;
+        border-radius: 0 38px;
+        top: -40px;
+        left: 19px;
+    }
+    .testimonials-area .title h2 {
+        font-size: 36px;
+        line-height: 65px;
+        margin: 20px 0;
+    }
+    i.fa.fa-star {
+        font-size: 10px;
+    }
+    .testimonials-area .testimonial-active .testimonial-item .testimonial-author .testimonial-img {
+        display: grid;
+    }
+    .testimonials-area .testimonial-active .testimonial-item .testimonial-author .testimonial-img h5 {
+        font-size: 12px;
+        padding-left: 0px;
+        padding-top: 19px;
+    }
+    .testimonials-area .testimonial-active .testimonial-item .testimonial-author .quote-sign i {
+        left: 0%;
+        font-size: 8px;
+        border-radius: 6px;
+    }
+    .testimonials-area .testimonial-active .testimonial-item .testimonial-author {
+        display: grid;
+    }
+    .testimonials-area .testimonial-active .testimonial-item .testimonial-author .testimonial-img h5 span {
+        font-size: 14px;
+    }
+    .testimonial-name p {
+        font-size: 10px;color: red;
+    }
+    .testimonials-area .testimonial-active .testimonial-item {
+        margin-right: 4px;
+        margin-left: 2px;
+        grid-template-columns: auto auto;
+        gap: 20px;
+    }
+    .testimonials-area .review-wrap {
+        padding: 16px 62px;
+        border-radius: 0 50px;
+        bottom: -63px;
+        right: 11px;
+        width: 13%;
+    }
+    .pb-100 {
+        padding-bottom: 60px;
+    }
+    .pricing-wrapper .single-price .price-amount h2 {
+        font-size: 30px;
+    }
+    .pricing-wrapper .single-price .price-title h5 {
+        font-size: 15px;
+    }
+    .pricing-wrapper .single-price {
+        padding: 40px 26px;
+
+    }
+    .pricing-wrapper .single-price .price-btn a {
+        font-size: 14px;
+    }
+    .blog-area .blog-title h2 {
+        font-size: 27px;
+        line-height: 44px;
+        width: 86%;
+    }
+    .blog-area .single-blog-items {
+        border-radius: 12px;
+        padding: 30px 25px;
+    }
+    .blog-area .single-blog-items h5 {
+        font-size: 18px;
+        margin-bottom: 16px;
+    }
+    .blog-area .single-blog-items .blog-meta a {
+        font-size: 15px;
+    }
+    .contact-area .contact-title h2 {
+        font-size: 34px;
+        line-height: 55px;
+    }
+    .contact-area .contact-form form input {
+        width: 100%;
+        font-size: 14px;
+    }
+    .contact-area .contact-form form input:nth-child(2) {
+        margin-left: 0px;
+    }
+}

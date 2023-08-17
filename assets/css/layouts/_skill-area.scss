@@ -1,0 +1,59 @@
+.my-skills {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 135vh;
+    .title {
+        h6 {
+            color: #8670EF;
+            font-size: 16px;
+            line-height: 26px;
+            font-weight: 500;
+            text-transform: uppercase;
+            position: relative;
+            display: inline-block;
+        }
+        h2 {
+            font-size: 60px;
+            font-weight: 600;
+            line-height: 70px;
+            margin: 20px 0;
+            width: 54%;
+            margin: 0 auto;
+        }
+    }
+    .skill-item-wrap {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        margin-top: 40px;
+        .single-skill-item { 
+            .skill-item-inner {
+                border: 1px solid rgba(238, 238, 238, 0.2784313725);
+                border-radius: 100px;
+                padding: 44px;
+                background: rgba(255, 255, 255, 0.0705882353);
+                .skill-icon {
+                    img {
+
+                    }
+                }
+                .skill-counter {
+                    h3 {
+                        font-size: 48px;
+                        font-weight: 600;
+                        color: #fff;
+                        margin-top: 30px;
+                    }
+                }
+            }
+            p {
+                font-size: 20px;
+                color: #fff;
+                margin-top: 40px;
+                text-align: center;
+            }
+        }
+    }
+}

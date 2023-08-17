@@ -1,0 +1,41 @@
+.p-10 {
+    padding: 10px 0;
+}
+.pt-80 {
+    padding-top: 80px;
+}
+.pb-80 {
+    padding-bottom: 80px;
+}
+.pb-30 {
+    padding-bottom: 30px;
+}
+
+/* background-color start*/
+    .dark-bg {
+        background-color: #000000;
+    }
+    .gray-bg {
+        background-color: #f6f6f6;
+    }
+/* background color end  */
+.pt-100 {
+    padding-top: 100px;
+}
+.pb-100 {
+    padding-bottom: 100px;
+}
+.pb-140 {
+    padding-bottom: 140px;
+}
+.pt-40 {
+    padding-top: 40px;
+}
+.pb-40 {
+    padding-bottom: 40px;
+}
+/* text-color css start  */
+.text-white {
+    color: #fff;
+}
+/* text-color css end  */
